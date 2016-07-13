@@ -1,1 +1,3 @@
 *.swp
+data/input/*
+data/output/*
